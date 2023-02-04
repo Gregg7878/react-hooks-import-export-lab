@@ -1,4 +1,5 @@
 import React from "react";
+import {image} from "src/components/About.js";
 
 function About() {
   return (

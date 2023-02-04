@@ -1,5 +1,5 @@
 import React from "react";
-
+import {username and city} from "src/components/Home.js";
 function Home() {
   return (
     <div id="home">
